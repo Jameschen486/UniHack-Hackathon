@@ -3,7 +3,7 @@ import time
 
 # MySQL Configuration
 db_name = 'mydatabase'
-db_host = 'mysql'
+db_host = 'localhost'
 db_local_host = 'localhost'
 db_user = 'root'
 db_password = 'password1234'
